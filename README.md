@@ -1,1 +1,1 @@
-# content-management-tool/bharta-intern
+# content-management-tool/bharat-intern
